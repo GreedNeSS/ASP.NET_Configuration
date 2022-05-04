@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<name>Marcus</name>
+	<age>45</age>
+	<languages name="0">English</languages>
+	<languages name="1">Russian</languages>
+	<languages name="2">Spansh</languages>
+	<company>
+		<title>Microsoft</title>
+		<country>USA</country>
+	</company>
+</configuration>
