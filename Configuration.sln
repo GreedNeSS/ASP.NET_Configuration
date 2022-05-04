@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurationBasics", "Conf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Non-file_Configuration_Providers", "Non-file_Configuration_Providers\Non-file_Configuration_Providers.csproj", "{9EE81FFB-AAC4-49AC-B0C6-D1CDF1612EA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationFiles", "ConfigurationFiles\ConfigurationFiles.csproj", "{B76C92BE-AA02-461C-AB34-22AFD0FDCA88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurationFiles", "ConfigurationFiles\ConfigurationFiles.csproj", "{B76C92BE-AA02-461C-AB34-22AFD0FDCA88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationAnalysis", "ConfigurationAnalysis\ConfigurationAnalysis.csproj", "{0BA9BF7D-B156-4CFB-B5C3-E9858C4F1DA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurationAnalysis", "ConfigurationAnalysis\ConfigurationAnalysis.csproj", "{0BA9BF7D-B156-4CFB-B5C3-E9858C4F1DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingConfigurationProvider", "CreatingConfigurationProvider\CreatingConfigurationProvider.csproj", "{C6A39864-123D-4B86-917E-C6477DF56C30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0BA9BF7D-B156-4CFB-B5C3-E9858C4F1DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BA9BF7D-B156-4CFB-B5C3-E9858C4F1DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BA9BF7D-B156-4CFB-B5C3-E9858C4F1DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A39864-123D-4B86-917E-C6477DF56C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A39864-123D-4B86-917E-C6477DF56C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A39864-123D-4B86-917E-C6477DF56C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A39864-123D-4B86-917E-C6477DF56C30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
