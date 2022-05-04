@@ -1,0 +1,9 @@
+{
+  "user": {
+    "profile": {
+      "name": "Henry",
+      "email": "henry@li.com"
+    }
+  },
+  "work": { "title": "Microsoft" }
+}

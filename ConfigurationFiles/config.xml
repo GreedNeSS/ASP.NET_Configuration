@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<person>
+		<profile>
+			<name>GreedNeSS</name>
+			<age>30</age>
+		</profile>
+	</person>
+	<company>
+		<title>Microsoft</title>
+	</company>
+</configuration>
