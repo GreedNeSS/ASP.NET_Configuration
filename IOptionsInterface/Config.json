@@ -1,0 +1,13 @@
+{
+  "name": "GreedNeSS",
+  "age": 30,
+  "languages": [
+    "English",
+    "Russian",
+    "German"
+  ],
+  "company": {
+    "title": "Microsoft",
+    "country":  "USA"
+  }
+}
